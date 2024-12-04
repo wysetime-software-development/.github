@@ -1,18 +1,17 @@
 <p align="center">
   <a href="https://www.wysetime.com/">
-  <img width="900" src="https://github.com/wysetime/assets/raw/main/im/banner-wysetime-github.png"></a>
+  <img width="900" src="https://github.com/wysetime-software-development/.github/assets/wysetime_banner.png"></a>
 </p>
 <div align="center">
-
-[中文](https://docs.wysetime.com/zh) | [한국어](https://docs.wysetime.com/ko) 
-
 <br>
 
-At [wysetime](https://www.wysetime.com/), we are dedicated to creating the best artificial intelligence models in the world. Our open source works here on GitHub offer cutting-edge solutions for a wide range of AI tasks, including [detection](https://docs.wysetime.com/tasks/detect/), [segmentation](https://docs.wysetime.com/tasks/segment/), [classification](https://docs.wysetime.com/tasks/classify/), [tracking](https://docs.wysetime.com/modes/track/) and [pose estimation](https://docs.wysetime.com/tasks/pose/) 🚀.
 
-We welcome [contributions](https://github.com/wysetime/wysetime#contribute) from the global community 🌍 and are always eager to hear from users with [feature requests](https://github.com/wysetime/wysetime/issues/new/choose) and [bug reports](https://github.com/wysetime/wysetime/issues/new/choose). If you're looking for state-of-the-art AI [models](https://github.com/wysetime/wysetime/tree/main/wysetime/models) that are fast, accurate, and easy to use, wysetime is the place to be.
+At [Wysetime](https://www.wysetime.com/), our mission is to develop world-class artificial intelligence models. Our innersource projects and collaborative efforts with trusted partners provide cutting-edge solutions for a variety of AI tasks, including detection, segmentation, classification, tracking, and pose estimation 🚀.
 
-Join us on our mission to push the boundaries of AI and make it accessible to everyone! 💡🌟
+Designed for seamless integration, our solutions work across edge and cloud environments, supporting scalable deployments tailored to diverse applications. With a focus on efficiency and precision, Wysetime simplifies operations through advanced analytics, helping organizations maximize performance and accuracy.
+
+Join us in advancing the frontiers of AI and making it accessible to all! 💡🌟
+
 
 <br>
 <a href="https://github.com/wysetime"><img src="https://github.com/wysetime/assets/raw/main/social/logo-social-github.png" width="3%" alt="wysetime GitHub"></a>
