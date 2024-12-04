@@ -14,8 +14,8 @@ Join us in advancing the frontiers of AI and making it accessible to all! ğŸ’¡ğŸ
 
 
 <br>
-<a href="https://github.com/wysetime-software-development"><img src="https://github.com/wysetime-software-development/.github/blob/main/assets/wysetime_innersource.png" width="3%" alt="Wysetime Innersource"></a>
-<a href="https://github.com/wysetime-collaboration"><img src="https://github.com/wysetime-software-development/.github/blob/main/assets/wysetime_collaboration.jpg" width="3%" alt="Wysetime Collaboration"></a>
-<a href="https://github.com/wysetime-sandbox"><img src="https://github.com/wysetime-software-development/.github/blob/main/assets/wysetime_sandbox.png" width="3%" alt="Wysetime Sandbox"></a>
+<a href="https://github.com/wysetime-software-development"><img src="https://github.com/wysetime-software-development/.github/blob/main/assets/wysetime_innersource.png" width="8%" alt="Wysetime Innersource"></a>
+<a href="https://github.com/wysetime-collaboration"><img src="https://github.com/wysetime-software-development/.github/blob/main/assets/wysetime_collaboration.jpg" width="8%" alt="Wysetime Collaboration"></a>
+<a href="https://github.com/wysetime-sandbox"><img src="https://github.com/wysetime-software-development/.github/blob/main/assets/wysetime_sandbox.png" width="8%" alt="Wysetime Sandbox"></a>
 
 </div>
