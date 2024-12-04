@@ -6,7 +6,7 @@
 <br>
 
 
-At [Wysetime](https://www.wysetime.com/), our mission is to develop world-class artificial intelligence models. Our innersource projects and collaborative efforts with trusted partners provide cutting-edge solutions for a variety of AI tasks, including detection, segmentation, classification, tracking, and pose estimation 🚀.
+At [Wysetime](https://www.wysetime.com/), our mission is to develop world-class artificial intelligence models. Our innersource projects and collaborative efforts with trusted partners provide cutting-edge solutions for a variety of AI tasks 🚀.
 
 Designed for seamless integration, our solutions work across edge and cloud environments, supporting scalable deployments tailored to diverse applications. With a focus on efficiency and precision, Wysetime simplifies operations through advanced analytics, helping organizations maximize performance and accuracy.
 
