@@ -9,7 +9,7 @@
 
 # 🧧 Happy Chinese New Year! 🎉
 
-🎊 **Wishing you prosperity, happiness, and good fortune in the Year of the Dragon!** 🐉✨
+🎊 **Wishing you prosperity, happiness, and good fortune in the Year of the Snake!** 🐉✨
 
 ![Chinese New Year Animation](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF3YnpndWxtNGV3ZzAwN3FyaDBvcmo5b2Q1bmp2MTVzaDMycHlhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXQGfSZYsF8iJ1dBJO/giphy.gif)
 
